@@ -1,6 +1,6 @@
 {
   "name": "js0n.ino",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A super lightweight C JSON parser leo package.",
   "keywords": [
     "leo",
