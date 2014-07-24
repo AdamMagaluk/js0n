@@ -1,0 +1,27 @@
+{
+  "name": "js0n.ino",
+  "version": "0.1.0",
+  "description": "A super lightweight C JSON parser leo package.",
+  "keywords": [
+    "leo",
+    "arduino",
+    "js0n"
+  ],
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make && ./json_test"
+  },
+  "author": "Jeremie Miller <jeremie@jabber.org>",
+  "license": "Public Domain",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quartzjer/js0n"
+  },
+  "bugs": {
+    "url": "https://github.com/quartzjer/js0n/issues"
+  },
+  "homepage": "https://github.com/quartzjer/js0n"
+}
